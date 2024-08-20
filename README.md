@@ -15,3 +15,7 @@ En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 
 Este es un texto adicional al de los satélites galileanos.
+
+Esta es una inmagen local
+
+![Imagen de una nutria](nutria.jpg)
